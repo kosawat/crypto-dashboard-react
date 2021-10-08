@@ -5,7 +5,7 @@ export default function ({firstVisit}) {
         <AppContext.Consumer>
             {({firstVisit}) =>
               firstVisit ? <div>
-                  Welcome to CryptoDash, please select your favorite coins to begin.{' '}
+                  Welcome to Crypto Dashboard, please select your favorite coins to begin.{' '}
               </div> : null
             }
         </AppContext.Consumer>
