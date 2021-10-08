@@ -1,5 +1,5 @@
-# crypto-dashboard-next
-Self learning Next.js and CryptoCompare API
+# crypto-dashboard-react
+Self learning React and CryptoCompare API
 
 # Getting Started with Create React App
 
